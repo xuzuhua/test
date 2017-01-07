@@ -10,6 +10,8 @@ public class test {
         if(m==0){
             return n+1;
         }
+        
+        
         if(n==0){
             f(m-1,1);
         }
